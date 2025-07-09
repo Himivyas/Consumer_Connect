@@ -144,12 +144,11 @@ Consumer Connect is a full-stack microservices-based platform designed to foster
 
 ## 👨‍💻 Contributors
 
-- **Dhruvi Shah** - ML & System design Engineer (System architecture,OCR, ML pipeline, Microservices integration,kafka)
-- **Krisha Shah** - Frontend Developer (UI/UX, Integration,React developer, shadcn specialist)
-- **Maahi Vaghela** - Backend Engineer (Backend, React charts,Brainstorming, DB manager)
+- **Himi Vyas** - ML & System design Engineer (System architecture,OCR, ML pipeline, Microservices integration,kafka) & Backend Engineer (Backend, React charts,Brainstorming, DB manager)
+- **Dhruvi Shah** - Frontend Developer (UI/UX, Integration,React developer, shadcn specialist)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
